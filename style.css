@@ -1,0 +1,32 @@
+body {
+ margin: 0px;
+  padding: 0px;
+  
+}
+
+#center{
+  width: 700px;
+  height: 700px;
+  margin: auto;
+  border:solid 1px black;
+}
+
+#setin{
+  
+  margin: auto;
+  text-align: center;
+  
+}
+
+h1{
+  text-align: center;
+}
+
+button{
+  margin: 20px ;
+  border-radius: 10px;
+  width: 100px;
+  height: 30px;
+  background-color: white;
+  color: black;
+}
